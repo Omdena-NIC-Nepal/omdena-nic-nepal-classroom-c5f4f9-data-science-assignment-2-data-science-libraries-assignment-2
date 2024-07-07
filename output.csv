@@ -1,0 +1,3 @@
+Name,age,city,Maker,Model,Year
+"['John', 'Anna', 'Peter', 'Linda']","[23, 36, 32, 45]","['New York', 'Paris', 'Berlin', 'London']",,,
+,,,"['Ford', 'Toyota', 'BMW']","['Fiesta', 'Prius', 'X3']","[2018, 2019, 2017]"
