@@ -1,0 +1,97 @@
+Date,NewName,Age,Email,Country,Salary,Maritial Status,Marital Status,NewAge,Year,Month,Day
+2022-09-29,invalid,59,ycastro@example.org,Switzerland,44694.24,Married,Married,59.059.0,2022.0,9.0,29.0
+2021-10-04,David Jefferson,21,,China,,Married,Married,21.021.0,2021.0,10.0,4.0
+2022-05-24,Jessica Reyes,34,,,60511.62,Married,Married,34.034.0,2022.0,5.0,24.0
+2022-04-07,Kenneth Macdonald,68,ewolf@example.com,Italy,84223.29,Married,Married,68.068.0,2022.0,4.0,7.0
+2020-06-19,Julie Horne,78,,Ecuador,24665.13,Married,Married,78.078.0,2020.0,6.0,19.0
+2023-05-01,Jonathan Holland,26,mayercaitlin@example.org,Cameroon,25660.99,Married,Married,26.026.0,2023.0,5.0,1.0
+,James Clark,80,ynguyen@example.net,,61345.33,Married,Married,80.080.0,,,
+2023-07-08,Kimberly Roberts,76,lmiller@example.org,Netherlands,58550.56,Married,Married,76.076.0,2023.0,7.0,8.0
+,Barbara Armstrong,22,fmitchell@example.com,,,Married,Married,22.022.0,,,
+2024-04-11,Jason Perez,59,collinsedward@example.com,Myanmar,20175.11,Married,Married,59.059.0,2024.0,4.0,11.0
+2023-07-27,Olivia Strong,76,schultzpatricia@example.com,South Africa,72362.02,Married,Married,76.076.0,2023.0,7.0,27.0
+,Keith Deleon,56,josephwall@example.com,Cocos (Keeling) Islands,23361.13,Married,Married,56.056.0,,,
+2023-07-24,Kelly Schultz,21,,Kiribati,93448.73,Married,Married,21.021.0,2023.0,7.0,24.0
+2021-05-18,Jessica Rivera,73,fmitchell@example.net,Central African Republic,71261.36,Married,Married,73.073.0,2021.0,5.0,18.0
+,James Lloyd,53,,,,Married,Married,53.053.0,,,
+2020-01-13,Lauren Becker,30,watsonjeffrey@example.net,Malta,invalid,Married,Married,30.030.0,2020.0,1.0,13.0
+2022-10-11,,73,johnstonkrista@example.com,Cook Islands,24176.12,Married,Married,73.073.0,2022.0,10.0,11.0
+2024-05-13,Greg Gates,77,,,54383.22,Married,Married,77.077.0,2024.0,5.0,13.0
+2023-08-22,Amy Sims,31,,Bolivia,51559.83,Married,Married,31.031.0,2023.0,8.0,22.0
+2021-10-31,Dylan Simpson,46,jessica74@example.net,Serbia,59670.5,Married,Married,46.046.0,2021.0,10.0,31.0
+2021-02-27,Mark Barber,60,davidcook@example.net,,96746.83,Married,Married,60.060.0,2021.0,2.0,27.0
+,John Hicks,30,catkins@example.org,Mexico,80906.51,Married,Married,30.030.0,,,
+2022-04-09,Karen Ward,56,daniel47@example.com,Congo,83580.8,Married,Married,56.056.0,2022.0,4.0,9.0
+2023-12-11,Amy Henson,80,tylerwatts@example.org,Bosnia and Herzegovina,35390.77,Married,Married,80.080.0,2023.0,12.0,11.0
+2023-08-26,,20,,Bouvet Island (Bouvetoya),73892.64,Married,Married,20.020.0,2023.0,8.0,26.0
+,,59,amy02@example.net,Anguilla,56583.58,Married,Married,59.059.0,,,
+2020-01-20,,71,gillespiecalvin@example.net,Syrian Arab Republic,71049.67,Married,Married,71.071.0,2020.0,1.0,20.0
+2024-03-29,Ricardo Moody,76,xmorales@example.net,Bahrain,83514.58,Married,Married,76.076.0,2024.0,3.0,29.0
+2021-11-22,Stephanie Moss,61,qvaughan@example.com,Guernsey,35671.38,Married,Married,61.061.0,2021.0,11.0,22.0
+,Raven Thompson,77,brandibarnes@example.com,Korea,76460.86,Married,Married,77.077.0,,,
+,William Peck,26,christopher37@example.org,,42155.66,Married,Married,26.026.0,,,
+2024-05-17,,57,danielperkins@example.org,Barbados,78620.54,Married,Married,57.057.0,2024.0,5.0,17.0
+2024-04-01,Laura Pham,69,,Israel,45046.19,Married,Married,69.069.0,2024.0,4.0,1.0
+2023-11-27,David Shields,55,brad93@example.net,Burundi,,Married,Married,55.055.0,2023.0,11.0,27.0
+2022-08-06,Rebecca Davis,35,wallacejennifer@example.net,Sri Lanka,66871.64,Married,Married,35.035.0,2022.0,8.0,6.0
+2024-03-27,Keith Velazquez,22,charles82@example.net,Burkina Faso,81661.97,Married,Married,22.022.0,2024.0,3.0,27.0
+2020-07-30,Christopher Martin,40,tina11@example.com,Netherlands Antilles,81367.57,Married,Married,40.040.0,2020.0,7.0,30.0
+2022-03-05,Lindsey York,38,,Mexico,97896.77,Married,Married,38.038.0,2022.0,3.0,5.0
+,Lauren Ramos,80,tracey07@example.net,Zambia,74110.67,Married,Married,80.080.0,,,
+2024-02-14,invalid,64,mjackson@example.org,British Indian Ocean Territory (Chagos Archipelago),25219.6,Married,Married,64.064.0,2024.0,2.0,14.0
+,Nichole Mora,52,turnersarah@example.net,Angola,64674.33,Married,Married,52.052.0,,,
+,Calvin Herrera,21,,China,50975.46,Married,Married,21.021.0,,,
+2020-11-26,Brandi White,35,mhall@example.net,Tanzania,21408.87,Married,Married,35.035.0,2020.0,11.0,26.0
+,Melanie Buckley,35,,Mali,78258.04,Married,Married,35.035.0,,,
+2020-07-14,Marissa Williams,18,,,46658.98,Married,Married,18.018.0,2020.0,7.0,14.0
+,Charles Sanchez,28,jenkinsmaria@example.net,Chile,,Married,Married,28.028.0,,,
+2021-05-27,Amber Mendoza,64,qrobinson@example.com,Uganda,47293.85,Married,Married,64.064.0,2021.0,5.0,27.0
+,,33,robertsmith@example.net,Nigeria,99405.51,Married,Married,33.033.0,,,
+2023-05-08,Whitney Graham,40,zrodriguez@example.org,Mozambique,98826.59,Married,Married,40.040.0,2023.0,5.0,8.0
+2020-07-12,Patrick Brown PhD,44,james16@example.net,Greece,83842.6,Married,Married,44.044.0,2020.0,7.0,12.0
+2021-09-06,Kristin Stewart,70,,,73952.9,Married,Married,70.070.0,2021.0,9.0,6.0
+2021-03-07,Julie Kim,77,rmorgan@example.net,,46532.6,Married,Married,77.077.0,2021.0,3.0,7.0
+,James Williams,69,,Lesotho,84632.67,Married,Married,69.069.0,,,
+2022-04-04,Melissa Cook,51,thompsonhunter@example.org,,52040.14,Married,Married,51.051.0,2022.0,4.0,4.0
+2021-04-22,invalid,19,,,36728.76,Married,Married,19.019.0,2021.0,4.0,22.0
+2023-07-19,Dr. Olivia Caldwell MD,76,hernandezjason@example.com,Philippines,78453.84,Married,Married,76.076.0,2023.0,7.0,19.0
+2020-07-27,Diane Smith,57,david44@example.net,Saint Barthelemy,86579.95,Married,Married,57.057.0,2020.0,7.0,27.0
+2020-11-03,Thomas Navarro,50,psnyder@example.org,Turks and Caicos Islands,86286.69,Married,Married,50.050.0,2020.0,11.0,3.0
+,Terri Phillips,27,garyanderson@example.net,Cambodia,47755.97,Married,Married,27.027.0,,,
+2020-01-06,,24,katelyn76@example.net,Yemen,61256.89,Married,Married,24.024.0,2020.0,1.0,6.0
+2020-12-20,Wesley Whitaker,47,,British Indian Ocean Territory (Chagos Archipelago),97832.79,Married,Married,47.047.0,2020.0,12.0,20.0
+2020-10-26,Andrew Bryant,43,jacobtorres@example.com,Colombia,32205.53,Married,Married,43.043.0,2020.0,10.0,26.0
+2022-10-21,,68,guyjohnson@example.com,Sudan,80279.35,Married,Married,68.068.0,2022.0,10.0,21.0
+,Karen Peters,58,ricelisa@example.net,Yemen,36736.59,Married,Married,58.058.0,,,
+,,47,stephanie20@example.net,Macao,36365.55,Married,Married,47.047.0,,,
+2020-02-21,Justin Wright,29,elizabethreid@example.org,Timor-Leste,28951.24,Married,Married,29.029.0,2020.0,2.0,21.0
+2022-01-21,Michael Oconnell,19,fdelacruz@example.org,Grenada,62929.05,Married,Married,19.019.0,2022.0,1.0,21.0
+2023-11-13,Christina Garcia,40,kathryn18@example.org,invalid,73916.51,Married,Married,40.040.0,2023.0,11.0,13.0
+,Chase Parker,27,,Belgium,28097.5,Married,Married,27.027.0,,,
+2021-03-12,Morgan Brown,79,wsmith@example.org,Cape Verde,28583.22,Married,Married,79.079.0,2021.0,3.0,12.0
+2021-04-19,Mitchell Smith,32,spierce@example.com,Armenia,57795.75,Married,Married,32.032.0,2021.0,4.0,19.0
+2022-07-23,Whitney Garcia,70,tylergolden@example.com,Netherlands Antilles,68794.39,Married,Married,70.070.0,2022.0,7.0,23.0
+2023-05-09,Angela Thompson,73,petersonshelby@example.org,Albania,,Married,Married,73.073.0,2023.0,5.0,9.0
+,Phillip Garza,49,brandimclean@example.org,Georgia,34326.41,Married,Married,49.049.0,,,
+2022-04-03,Tabitha Delgado,74,lancewilliams@example.net,Sudan,98396.21,Married,Married,74.074.0,2022.0,4.0,3.0
+,Shannon Gonzalez,22,jean37@example.net,,64831.97,Married,Married,22.022.0,,,
+2021-06-20,David Walker,43,linda84@example.net,Guinea-Bissau,89683.17,Married,Married,43.043.0,2021.0,6.0,20.0
+2020-06-29,Brandi Long,45,vford@example.com,Ecuador,30773.53,Married,Married,45.045.0,2020.0,6.0,29.0
+2022-07-09,Kristi Calderon,80,sharon04@example.com,Iceland,99507.66,Married,Married,80.080.0,2022.0,7.0,9.0
+2023-07-09,Kendra Mason,47,megancarter@example.com,Moldova,34369.87,Married,Married,47.047.0,2023.0,7.0,9.0
+2023-02-11,Debbie Romero,58,nathaniel61@example.net,Reunion,39875.14,Married,Married,58.058.0,2023.0,2.0,11.0
+2023-05-19,Elizabeth Wilkinson,66,gailmcdonald@example.org,Turkmenistan,69624.01,Married,Married,66.066.0,2023.0,5.0,19.0
+2024-05-24,David Randall,74,cody30@example.net,Niue,43013.14,Married,Married,74.074.0,2024.0,5.0,24.0
+2020-07-21,Nancy Irwin,42,juliaweaver@example.net,Czech Republic,29455.0,Married,Married,42.042.0,2020.0,7.0,21.0
+2022-05-23,Joel Martin,76,bjacobson@example.com,Korea,invalid,Married,Married,76.076.0,2022.0,5.0,23.0
+2020-06-12,Lauren Jones,68,melissadyer@example.com,Malawi,42435.96,Married,Married,68.068.0,2020.0,6.0,12.0
+2020-05-08,invalid,43,,Indonesia,41928.2,Married,Married,43.043.0,2020.0,5.0,8.0
+2021-04-05,Ryan Middleton,42,mcconnellashley@example.net,Bahamas,78048.75,Married,Married,42.042.0,2021.0,4.0,5.0
+2021-08-01,Seth Bradley,76,melissakim@example.org,Slovakia (Slovak Republic),49354.13,Married,Married,76.076.0,2021.0,8.0,1.0
+2020-06-03,Alicia Miller,59,thomas45@example.net,Mauritania,52834.29,Married,Married,59.059.0,2020.0,6.0,3.0
+2021-05-23,Cody Jackson,48,jamieayers@example.net,Luxembourg,55583.62,Married,Married,48.048.0,2021.0,5.0,23.0
+,Garrett Davidson,56,gjames@example.com,Solomon Islands,86227.88,Married,Married,56.056.0,,,
+2020-04-08,Elizabeth Ross,52,richardlewis@example.net,Equatorial Guinea,29992.69,Married,Married,52.052.0,2020.0,4.0,8.0
+2020-04-11,,72,brian50@example.com,Somalia,90628.22,Married,Married,72.072.0,2020.0,4.0,11.0
+2020-03-18,Patricia Singh,65,lramirez@example.org,Greece,85290.44,Married,Married,65.065.0,2020.0,3.0,18.0
+2021-09-23,Christopher Stokes,42,,South Africa,20289.17,Married,Married,42.042.0,2021.0,9.0,23.0
